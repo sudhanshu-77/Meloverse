@@ -18,3 +18,7 @@ The site is live at [here](https://sudhanshu-77.github.io/Music-Streaming-Applic
 04
 ![Screenshot 2023-02-01 110323](https://user-images.githubusercontent.com/86345777/215934999-b34ac65f-3b91-4c6f-90fa-a0b3e8b6d76c.png)
 
+
+
+⭐️ From [sudhanshu-tripathi](https://github.com/sudhanshu-77)
+
